@@ -21,24 +21,13 @@ pip install -r requirements.txt
 Run the notebook or script to preprocess data and train the model.
 
 # Dataset
-The dataset consists of text samples paired with emotion labels. The labels represent different emotional states such as happiness, sadness, anger, fear, and guilt. The raw data is in a structured format suitable for training machine learning models. <a href = ""
+The dataset consists of text samples paired with emotion labels. The labels represent different emotional states such as happiness, sadness, anger, fear, and guilt. The raw data is in a structured format suitable for training machine learning models. <a href = "https://github.com/MandalaMukesh04/Text-Based-Emotion-Detection/blob/main/textemotion.txt">Dataset View
 
-Usage
-To train the model, run:
-bash
-Copy
-Edit
-python train.py  
-To make predictions on new text samples, use:
-bash
-Copy
-Edit
-python predict.py --text "Your sample text here"  
-Results
+# Results
 The model achieves competitive accuracy on emotion classification tasks. The results include precision, recall, and F1-score metrics, which are visualized using confusion matrices and classification reports.
 
-Contribution
+# Contribution
 Contributions are welcome! Feel free to submit pull requests or report issues.
 
-License
+# License
 This project is open-source under the MIT License.
