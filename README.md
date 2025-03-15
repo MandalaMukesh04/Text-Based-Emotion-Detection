@@ -17,7 +17,7 @@ git clone https://github.com/MandalaMukesh04/text-emotion.git
 
 - Install dependencies:
 
-pip install -r requirements.txt  
+- pip install -r requirements.txt  
 Run the notebook or script to preprocess data and train the model.
 
 # Dataset
