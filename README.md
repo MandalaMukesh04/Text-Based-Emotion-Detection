@@ -26,6 +26,8 @@ The dataset consists of text samples paired with emotion labels. The labels repr
 # Results
 The model achieves competitive accuracy on emotion classification tasks. The results include precision, recall, and F1-score metrics, which are visualized using confusion matrices and classification reports.
 
+![Image](https://github.com/user-attachments/assets/07dc2951-a10c-4d00-82e6-f256c47fc991)
+
 # Contribution
 Contributions are welcome! Feel free to submit pull requests or report issues.
 
