@@ -10,12 +10,12 @@ Deep learning model training and evaluation
 Performance metrics and visualization
 
 # Installation
-. To set up the project, follow these steps:
+To set up the project, follow these steps:
 
-# Clone the repository:
+"."Clone the repository:
 git clone https://github.com/MandalaMukesh04/text-emotion.git  
 
-# Install dependencies:
+"".Install dependencies:
 
 pip install -r requirements.txt  
 Run the notebook or script to preprocess data and train the model.
