@@ -11,7 +11,7 @@ This project follows a structured approach for text-based emotion classification
 - **Evaluation Metrics**: Accuracy assessment using Scikit-learn’s evaluation functions.
 
 ## Data Source
-The dataset contains labeled text samples categorized into different emotions. The text data is preprocessed and structured for training using n-gram models. <a href = "https://github.com/MandalaMukesh04/Text-Based-Emotion-Detection/blob/main/textemotion.txt"> **Data Source
+The dataset contains labeled text samples categorized into different emotions. The text data is preprocessed and structured for training using n-gram models. <a href = "https://github.com/MandalaMukesh04/Text-Based-Emotion-Detection/blob/main/textemotion.txt"> **Data Source**
 ## Tools & Technologies Used
 - **Python**: Core language for text processing.
 - **Regular Expressions (`re`)**: Used for text preprocessing and cleaning.
